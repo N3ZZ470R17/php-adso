@@ -12,8 +12,8 @@ Consiste en el uso de `php` haciendo uso de las siguientes características:
 7. Manipulación de BBDD en `HTML`.
 8. Creación de un proyecto (*¿final?*).
 
-## Características adicionales de este repo
+## Características adicionales de este *repo*
 Se usará de práctica para los ejercicios relacionados con las herramientas de `git` y todo lo relacionado con VCS (Sistemas de Control de Versionamiento).
 
-## ¿A quien va dirigido esta *repo*?
+## ¿A quien va dirigido este *repo*?
 Se usará en la ficha 2455234 del Tecnólogo en Análisis y Desarrollo de Software del Servicio Nacional de Aprendizaje - SENA.
