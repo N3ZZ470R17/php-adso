@@ -1,2 +1,3 @@
 Pruebas de Git y GitHub en progreso, por el momento todo se realiza desde terminal
 Ahora sigo con los ejercicios de git
+.
